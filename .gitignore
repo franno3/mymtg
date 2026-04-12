@@ -1,0 +1,14 @@
+# Quartz build output
+public/
+node_modules/
+.quartz-cache/
+tsconfig.tsbuildinfo
+
+# Obsidian
+MtG/.obsidian/
+
+# Claude Code local settings
+MtG/.claude/
+
+# System
+.DS_Store
