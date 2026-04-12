@@ -24,6 +24,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build --directory MtG
 
+      - name: Add .htaccess
+        run: cp .htaccess public/.htaccess
+
       - name: Setup SSH key
         run: |
           mkdir -p ~/.ssh
