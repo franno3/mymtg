@@ -39,4 +39,3 @@ Serwis jest projektem osobistym, niekomercyjnym, zgodnym z Fan Content Policy Wo
 
 Dane kart pochodzą z Scryfall API (użytek niekomercyjny dozwolony).
 
-ABC
