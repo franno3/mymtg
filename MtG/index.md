@@ -8,7 +8,7 @@
 | [[Indeksy/Commanders|Commanders]] | Legendarne stwory i planeswalkerzy jako dowódcy |
 | [[Indeksy/Decklists|Decklists]] | Gotowe i robocze talie |
 | [[Indeksy/Zasady|Zasady]] | Kompleksowe zasady gry |
-| [[Indeksy/Edycje|Edycje]] | Zestawy i setki |
+| [[Indeksy/Edycje|Edycje]] | Zestawy i sety |
 | [[Indeksy/Formaty|Formaty]] | Standard, Modern, Commander... |
 
 ---
