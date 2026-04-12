@@ -38,3 +38,5 @@ Obrazy kart są własnością Wizards of the Coast.
 Serwis jest projektem osobistym, niekomercyjnym, zgodnym z Fan Content Policy WotC. 
 
 Dane kart pochodzą z Scryfall API (użytek niekomercyjny dozwolony).
+
+ABC
