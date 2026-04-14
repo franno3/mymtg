@@ -6,9 +6,9 @@ tags:
 kolor:
   - niebieski
 typ: Stwór
-podtyp: Human Pirate
-edycja: "[[Edycje/KHM|Kaldheim (KHM)]]"
-numer_kolekcji: 81
+podtyp: Human Wizard
+edycja: "[[Edycje/STX|Strixhaven: School of Mages (STX)]]"
+numer_kolekcji: 60
 koszt_many: "{2}{U}"
 rzadkość: Common
 cmc: 3
@@ -22,7 +22,7 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Vortex Runner
 
-![Vortex Runner](https://cards.scryfall.io/normal/front/b/a/bab4a68d-5d26-42d8-bc51-15e3c1f95ebe.jpg)
+![Vortex Runner](https://api.scryfall.io/cards/stx/60?format=image&version=normal)
 
 > [!info] Statystyki
 > **Koszt many:** `{2}{U}`
@@ -37,11 +37,11 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 ### Angielski (oryginał)
 
-> Vortex Runner can't be blocked as long as you control three or more Islands.
+> As long as you control eight or more lands, Vortex Runner gets +1/+0 and can't be blocked.
 
 ### Polski (tłumaczenie)
 
-> Vortex Runner nie może być blokowany tak długo, jak kontrolujesz trzy lub więcej Wysp.
+> Dopóki kontrolujesz osiem lub więcej lądów, Vortex Runner dostaje +1/+0 i nie może być blokowany.
 
 ---
 
@@ -49,26 +49,26 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 ### Angielski (oryginał)
 
-> *Through storm and surge, the pirates of Bretagard sail where others dare not.*
+> *"By using the vortex, I can study for at least fifteen extra minutes between every class. I wasn't being reckless, Dean. I was being efficient."*
 
 ### Polski (tłumaczenie)
 
-> *Przez burze i fale piraci z Bretagard żeglują tam, gdzie inni nie ośmielają się.*
+> *„Używając vortexu, mogę się uczyć przez co najmniej piętnaście dodatkowych minut między każdymi zajęciami. Nie byłam nierozsądna, Pani Dziekan. Byłam wydajna."*
 
 ---
 
 ## Umiejętności
 
 ### Efekt warunkowy
-- Nieblokowalny jeśli kontrolujesz 3+ Wyspy
+- Jeśli kontrolujesz 8+ lądów: +1/+0 i nie może być blokowany
 
 ---
 
 ## Zasady i interakcje
 
-- W tej talii jest 11 Island + możliwe z Evolving Wilds — przy normalnym rozwinięciu warunek spełniony od T4-5
-- Jako nieblokowalny 3/1 bije prosto w gracza — z [[Karty/Czerwone/Run Amok]] staje się 6/2 nieblokowalnym Trample
-- Evolving Wilds może przynieść Island — nie liczy się jako Island sama w sobie
+- Warunek 8+ lądów — spełniony w późnej grze, wymaga rampy lub cierpliwości
+- Liczy się każdy ląd, nie tylko Wyspy — elastyczniejszy niż poprzednia wersja
+- Po aktywacji staje się 4/1 nieblokowalnym — trudny do zatrzymania finisher
 
 ---
 
