@@ -11,6 +11,8 @@ edycja: "[[Edycje/KHM|Kaldheim (KHM)]]"
 koszt_many: "{4}{B}"
 rzadkość: Uncommon
 cmc: 5
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Cleaving Reaper
@@ -72,3 +74,14 @@ cmc: 5
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

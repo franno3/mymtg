@@ -11,7 +11,8 @@ edycja: "[[Edycje/VOW|Innistrad: Crimson Vow (VOW)]]"
 koszt_many: "{R}"
 rzadkość: Common
 cmc: 1
-
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Voldaren Stinger
@@ -74,3 +75,14 @@ cmc: 1
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

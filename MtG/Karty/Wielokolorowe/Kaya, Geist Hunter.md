@@ -14,6 +14,8 @@ rzadkość: Mythic Rare
 cmc: 3
 color_identity: WB
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Kaya, Geist Hunter
@@ -68,3 +70,14 @@ commander_legal: true
 
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

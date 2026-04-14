@@ -14,6 +14,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: WBR
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Shadow Summoning
@@ -47,3 +49,14 @@ Na podstawie nazwy prawdopodobnie tworzy kopie/cienie stworów lub przywraca je 
 
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

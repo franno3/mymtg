@@ -11,6 +11,8 @@ edycja: "[[Edycje/ZNR|Zendikar Rising (ZNR)]]"
 koszt_many: "{2}{G}"
 rzadkość: Common
 cmc: 3
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Murasa Brute
@@ -66,3 +68,14 @@ cmc: 3
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

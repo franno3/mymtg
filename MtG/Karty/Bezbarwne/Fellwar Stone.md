@@ -13,6 +13,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: ""
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Fellwar Stone
@@ -65,3 +67,14 @@ Staple 2-mana rampa — razem z Arcane Signet i Sol Ring buduje podstawę rampy.
 
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

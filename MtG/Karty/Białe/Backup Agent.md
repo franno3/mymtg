@@ -11,6 +11,8 @@ edycja: "[[Edycje/SNC|Streets of New Capenna (SNC)]]"
 koszt_many: "{1}{W}"
 rzadkość: Common
 cmc: 2
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Backup Agent
@@ -65,3 +67,14 @@ cmc: 2
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - White Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

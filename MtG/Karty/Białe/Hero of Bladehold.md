@@ -14,6 +14,8 @@ cmc: 4
 color_identity: W
 moze_byc_dowodca: true
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Hero of Bladehold
@@ -64,3 +66,14 @@ commander_legal: true
 
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

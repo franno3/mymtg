@@ -12,6 +12,8 @@ rzadkość: Common
 cmc: 0
 color_identity: ""
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Study Hall
@@ -43,3 +45,14 @@ commander_legal: true
 ## Użycie w taliach
 
 - [[Decklists/Lorehold Spirit — Commander|Lorehold Spirit — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

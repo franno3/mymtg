@@ -12,6 +12,8 @@ numer_kolekcji: 149
 koszt_many: "{1}{R}"
 rzadkość: Common
 cmc: 2
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Run Amok
@@ -78,3 +80,14 @@ Instant — tylko dla **atakującego** stwora: +3/+1 i Trample do końca tury.
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

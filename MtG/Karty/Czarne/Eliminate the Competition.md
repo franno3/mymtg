@@ -13,6 +13,8 @@ rzadkość: Rare
 cmc: 5
 color_identity: B
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Eliminate the Competition
@@ -59,3 +61,14 @@ Poświęć X żetonów → zniszcz X wrogich stworów.
 
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

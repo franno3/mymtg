@@ -12,6 +12,8 @@ numer_kolekcji: 210
 koszt_many: "{1}{G}"
 rzadkość: Common
 cmc: 2
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Snarespinner
@@ -78,3 +80,14 @@ cmc: 2
 
 ### Decklists używające tej karty
 *(brak)*
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

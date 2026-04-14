@@ -11,6 +11,8 @@ edycja: "[[Edycje/M21|Core Set 2021 (M21)]]"
 koszt_many: "{4}{B}"
 rzadkość: Common
 cmc: 5
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Specter of the Fens
@@ -71,3 +73,14 @@ cmc: 5
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

@@ -12,6 +12,8 @@ rzadkość: Rare
 cmc: 0
 color_identity: ""
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Nykthos, Shrine to Nyx
@@ -43,3 +45,14 @@ commander_legal: true
 ## Użycie w taliach
 
 - [[Decklists/Krenko  — Commander|Krenko  — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

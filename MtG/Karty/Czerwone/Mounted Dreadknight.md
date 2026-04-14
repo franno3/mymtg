@@ -11,7 +11,8 @@ edycja: "[[Edycje/VOW|Innistrad: Crimson Vow (VOW)]]"
 koszt_many: "{3}{R}"
 rzadkość: Uncommon
 cmc: 4
-
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Mounted Dreadknight
@@ -69,3 +70,14 @@ cmc: 4
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

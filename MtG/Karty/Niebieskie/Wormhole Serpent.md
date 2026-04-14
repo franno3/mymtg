@@ -12,6 +12,8 @@ numer_kolekcji: 83
 koszt_many: "{4}{U}{U}"
 rzadkość: Uncommon
 cmc: 6
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Wormhole Serpent
@@ -82,3 +84,14 @@ cmc: 6
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

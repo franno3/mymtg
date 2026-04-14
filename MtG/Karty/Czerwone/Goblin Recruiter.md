@@ -12,6 +12,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: R
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Goblin Recruiter
@@ -42,3 +44,14 @@ commander_legal: true
 ## Użycie w taliach
 
 - [[Decklists/Krenko  — Commander|Krenko  — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

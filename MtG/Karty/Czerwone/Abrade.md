@@ -13,6 +13,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: R
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Abrade
@@ -62,3 +64,14 @@ commander_legal: true
 ### Decklists używające tej karty
 - [[Decklists/Mardu Surge — Commander]]
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

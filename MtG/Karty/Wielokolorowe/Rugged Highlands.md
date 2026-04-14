@@ -10,6 +10,8 @@ edycja: "[[Edycje/M21|Core Set 2021 (M21)]]"
 koszt_many: ""
 rzadkość: Common
 cmc: 0
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Rugged Highlands
@@ -65,3 +67,14 @@ cmc: 0
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

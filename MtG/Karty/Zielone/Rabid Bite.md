@@ -11,6 +11,8 @@ edycja: "[[Edycje/M21|Core Set 2021 (M21)]]"
 koszt_many: "{1}{G}"
 rzadkość: Common
 cmc: 2
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Rabid Bite
@@ -66,3 +68,14 @@ cmc: 2
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

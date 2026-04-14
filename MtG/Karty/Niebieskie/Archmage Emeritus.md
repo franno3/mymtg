@@ -12,6 +12,8 @@ numer_kolekcji: 38
 koszt_many: "{2}{U}{U}"
 rzadkość: Rare
 cmc: 4
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Archmage Emeritus
@@ -80,3 +82,14 @@ cmc: 4
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

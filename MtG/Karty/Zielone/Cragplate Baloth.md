@@ -11,6 +11,8 @@ edycja: "[[Edycje/ZNR|Zendikar Rising (ZNR)]]"
 koszt_many: "{4}{G}{G}"
 rzadkość: Rare
 cmc: 6
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Cragplate Baloth
@@ -73,3 +75,14 @@ cmc: 6
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

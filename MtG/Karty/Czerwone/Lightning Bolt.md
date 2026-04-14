@@ -12,6 +12,8 @@ numer_kolekcji: 149
 koszt_many: "{R}"
 rzadkość: Common
 cmc: 1
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Lightning Bolt
@@ -76,6 +78,17 @@ Zadaje **3 obrażenia** dowolnemu celowi (stwór, planeswalker lub gracz).
 
 ### Powiązane karty
 - [[Karty/Czerwone/Rift Bolt]] — opóźniony, ale ten sam efekt
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*
 
 ---
 

@@ -12,6 +12,8 @@ rzadkość: Uncommon
 cmc: 1
 color_identity: W
 commander_legal: true
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Path to Exile
@@ -41,3 +43,14 @@ commander_legal: true
 ## Użycie w taliach
 
 - [[Decklists/Lorehold Spirit — Commander|Lorehold Spirit — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

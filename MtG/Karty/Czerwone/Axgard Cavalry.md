@@ -12,6 +12,8 @@ numer_kolekcji: 128
 koszt_many: "{R}"
 rzadkość: Common
 cmc: 1
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Axgard Cavalry
@@ -87,3 +89,14 @@ cmc: 1
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

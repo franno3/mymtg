@@ -12,6 +12,8 @@ numer_kolekcji: 153
 koszt_many: "{1}{R}"
 rzadkość: Common
 cmc: 2
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Teeterpeak Ambusher
@@ -79,3 +81,14 @@ cmc: 2
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

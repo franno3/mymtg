@@ -11,7 +11,8 @@ edycja: "[[Edycje/MID|Innistrad: Midnight Hunt (MID)]]"
 koszt_many: "{4}{G}"
 rzadkość: Rare
 cmc: 5
-
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Glorious Sunrise
@@ -77,3 +78,14 @@ cmc: 5
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

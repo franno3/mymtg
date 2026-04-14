@@ -11,6 +11,8 @@ edycja: "[[Edycje/M21|Core Set 2021 (M21)]]"
 koszt_many: "{2}{W}"
 rzadkość: Common
 cmc: 3
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Kill Shot
@@ -63,3 +65,14 @@ cmc: 3
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - White Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

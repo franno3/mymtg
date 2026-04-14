@@ -11,7 +11,8 @@ edycja: "[[Edycje/SNC|Streets of New Capenna (SNC)]]"
 koszt_many: "{2}{R}"
 rzadkość: Common
 cmc: 3
-
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # High-Rise Sawjack
@@ -65,3 +66,14 @@ cmc: 3
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - Red Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

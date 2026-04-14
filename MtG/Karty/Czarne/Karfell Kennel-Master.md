@@ -11,6 +11,8 @@ edycja: "[[Edycje/KHM|Kaldheim (KHM)]]"
 koszt_many: "{3}{B}"
 rzadkość: Common
 cmc: 4
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Karfell Kennel-Master
@@ -65,3 +67,14 @@ cmc: 4
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

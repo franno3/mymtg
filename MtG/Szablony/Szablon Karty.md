@@ -14,6 +14,9 @@ cmc: 0                   # Converted Mana Cost (liczba)
 color_identity: "{{WUBRG}}"   # np. R, UG, WBR — symbole many z kosztu I tekstu
 moze_byc_dowodca: false        # true jeśli legendarny stwór lub planeswalker z wyróżnieniem
 commander_legal: true          # false jeśli na liście zakazanych EDH
+# --- Posiadanie ---
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # {{Nazwa Karty}}
@@ -108,6 +111,17 @@ commander_legal: true          # false jeśli na liście zakazanych EDH
 
 ### W talii Commander
 {{Jak karta sprawdza się jako element 99 — jak bardzo jest "staple", w jakich kolorach, jaka rola}}
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*
 
 ---
 

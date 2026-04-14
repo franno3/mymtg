@@ -17,6 +17,8 @@ cmc: 4
 color_identity: R
 moze_byc_dowodca: true
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Krenko, Mob Boss
@@ -66,3 +68,14 @@ commander_legal: true
 
 ### Decklists używające tej karty
 - [[Krenko  — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

@@ -21,6 +21,8 @@ moze_byc_dowodca: true
 commander_legal: true
 ilustrator: Darren Tan
 data_premiery: 2026-04-24
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Quintorius, History Chaser
@@ -100,3 +102,14 @@ Silna karta wartości w każdym RW decku operującym na cmentarzu. +1 jest autar
 - [[Zasady/Triggered vs Activated Abilities]] — zarówno trigger jak i zdolności lojalnościowe
 - [[Zasady/Double Strike]] — efekt zdolności −4
 - [[Zasady/Vigilance]] — efekt zdolności −4
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

@@ -11,6 +11,8 @@ edycja: "[[Edycje/MID|Innistrad: Midnight Hunt (MID)]]"
 koszt_many: "{3}{U}"
 rzadkość: Uncommon
 cmc: 4
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Dreamshackle Geist
@@ -70,3 +72,14 @@ cmc: 4
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - White Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

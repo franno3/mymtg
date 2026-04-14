@@ -12,6 +12,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: RW
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Kirol, History Buff // Pack a Punch
@@ -45,3 +47,13 @@ commander_legal: true
 
 ## Użycie w taliach
 
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

@@ -12,6 +12,8 @@ rzadkość: Rare
 cmc: 0
 color_identity: RW
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Battlefield Forge
@@ -44,3 +46,14 @@ commander_legal: true
 
 - [[Decklists/Lorehold Spirit — Commander|Lorehold Spirit — Commander]]
 - [[Decklists/Mardu Surge — Commander|Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

@@ -12,6 +12,8 @@ rzadkość: Common
 cmc: 0
 color_identity: ""
 commander_legal: true
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Command Tower
@@ -43,3 +45,14 @@ commander_legal: true
 - [[Decklists/Krenko  — Commander|Krenko  — Commander]]
 - [[Decklists/Lorehold Spirit — Commander|Lorehold Spirit — Commander]]
 - [[Decklists/Mardu Surge — Commander|Mardu Surge — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

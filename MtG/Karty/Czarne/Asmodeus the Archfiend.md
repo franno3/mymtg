@@ -11,6 +11,8 @@ edycja: "[[Edycje/AFR|Adventures in the Forgotten Realms (AFR)]]"
 koszt_many: "{3}{B}{B}{B}"
 rzadkość: Mythic Rare
 cmc: 6
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Asmodeus the Archfiend
@@ -78,3 +80,14 @@ cmc: 6
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Black Green]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

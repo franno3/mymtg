@@ -12,6 +12,8 @@ rzadkość: Uncommon
 cmc: 3
 color_identity: R
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Light Up the Stage
@@ -43,3 +45,14 @@ commander_legal: true
 ## Użycie w taliach
 
 - [[Decklists/Przykład — Izzet Burn Modern|Przykład — Izzet Burn Modern]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

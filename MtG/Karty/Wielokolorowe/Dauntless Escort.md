@@ -9,6 +9,8 @@ rzadkość: Rare
 cmc: 3
 color_identity: GW
 commander_legal: true
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Dauntless Escort
@@ -35,3 +37,14 @@ commander_legal: true
 
 ## Użycie w taliach
 - [[Decklists/Token Triumph — Commander|Token Triumph — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

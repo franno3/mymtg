@@ -11,6 +11,8 @@ edycja: "[[Edycje/SNC|Streets of New Capenna (SNC)]]"
 koszt_many: "{1}{W}{W}"
 rzadkość: Rare
 cmc: 3
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Extraction Specialist
@@ -66,3 +68,14 @@ cmc: 3
 
 ### Decklists używające tej karty
 - [[Decklists/2022 Starter Kit - White Blue]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*

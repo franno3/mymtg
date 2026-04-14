@@ -12,6 +12,8 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: ""
 commander_legal: true
+papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
 # Mind Stone
@@ -44,3 +46,14 @@ commander_legal: true
 
 - [[Decklists/Krenko  — Commander|Krenko  — Commander]]
 - [[Decklists/Lorehold Spirit — Commander|Lorehold Spirit — Commander]]
+
+---
+
+## Posiadanie
+
+> [!check] Status kolekcji
+> **Papierowe:** Nie mam  
+> *(Mam | Nie mam | Szukam | Do wymiany)*
+>
+> **Elektroniczne (Arena/MTGO):** Nie mam  
+> *(Mam | Nie mam | Szukam)*
