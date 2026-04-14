@@ -11,7 +11,7 @@ edycja: "[[Edycje/SNC|Streets of New Capenna (SNC)]]"
 koszt_many: "{1}{W}{W}"
 rzadkość: Rare
 cmc: 3
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
 elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
@@ -74,7 +74,7 @@ elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
+> **Papierowe:** Mam  
 > *(Mam | Nie mam | Szukam | Do wymiany)*
 >
 > **Elektroniczne (Arena/MTGO):** Nie mam  

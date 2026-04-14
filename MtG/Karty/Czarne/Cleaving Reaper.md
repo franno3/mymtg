@@ -11,7 +11,7 @@ edycja: "[[Edycje/KHM|Kaldheim (KHM)]]"
 koszt_many: "{4}{B}"
 rzadkość: Uncommon
 cmc: 5
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
 elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
@@ -80,7 +80,7 @@ elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
+> **Papierowe:** Mam  
 > *(Mam | Nie mam | Szukam | Do wymiany)*
 >
 > **Elektroniczne (Arena/MTGO):** Nie mam  

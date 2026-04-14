@@ -11,7 +11,7 @@ edycja: "[[Edycje/AFR|Adventures in the Forgotten Realms (AFR)]]"
 koszt_many: "{2}{B}"
 rzadkość: Common
 cmc: 3
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
 elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
@@ -81,7 +81,7 @@ elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
+> **Papierowe:** Mam  
 > *(Mam | Nie mam | Szukam | Do wymiany)*
 >
 > **Elektroniczne (Arena/MTGO):** Nie mam  

@@ -12,7 +12,7 @@ numer_kolekcji: 156
 koszt_many: "{1}{R}"
 rzadkość: Common
 cmc: 2
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
+papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
 elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ---
 
@@ -85,7 +85,7 @@ Instant — 4 damage do stwora lub planeswalera. Nie może celować w graczy.
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
+> **Papierowe:** Mam  
 > *(Mam | Nie mam | Szukam | Do wymiany)*
 >
 > **Elektroniczne (Arena/MTGO):** Nie mam  
