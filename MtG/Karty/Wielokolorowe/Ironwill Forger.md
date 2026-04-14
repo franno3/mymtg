@@ -15,8 +15,12 @@ rzadkość: Rare
 cmc: 4
 color_identity: WBR
 commander_legal: true
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 0                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Nie mam"
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # Ironwill Forger
@@ -56,8 +60,8 @@ Nazwa sugeruje tworzenie/kowanie ekwipunku ("Forger") lub wzmacnianie stworów (
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 0 | 0 | Nie mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |

@@ -12,8 +12,12 @@ numer_kolekcji: 149
 koszt_many: "{1}{R}"
 rzadkość: Common
 cmc: 2
-papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 4                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Mam"
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # Run Amok
@@ -86,8 +90,8 @@ Instant — tylko dla **atakującego** stwora: +3/+1 i Trample do końca tury.
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 4 | 0 | Mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |

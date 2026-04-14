@@ -13,8 +13,12 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: R
 commander_legal: true
-papierowe: "Mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 3                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Mam"
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # Abrade
@@ -70,8 +74,8 @@ elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 3 | 0 | Mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |

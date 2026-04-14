@@ -10,6 +10,7 @@
 | [[Indeksy/Zasady|Zasady]] | Kompleksowe zasady gry |
 | [[Indeksy/Edycje|Edycje]] | Zestawy i sety |
 | [[Indeksy/Formaty|Formaty]] | Standard, Modern, Commander... |
+| [[Indeksy/Analizy|Analizy]] | Analizy talii, kart i metagame |
 
 ---
 
@@ -18,6 +19,7 @@
 - [[Szablony/Szablon Karty|Szablon: Karta]]
 - [[Szablony/Szablon Decklist|Szablon: Decklist (60 kart)]]
 - [[Szablony/Szablon Commander Decklist|Szablon: Commander Decklist (100 kart)]]
+- [[Szablony/Szablon Analiza|Szablon: Analiza]]
 - [[Szablony/Szablon Zasada|Szablon: Zasada]]
 - [[Szablony/Szablon Edycja|Szablon: Edycja]]
 

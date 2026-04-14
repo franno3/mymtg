@@ -13,8 +13,12 @@ rzadkość: Uncommon
 cmc: 2
 color_identity: ""
 commander_legal: true
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 0                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Nie mam"
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # Fellwar Stone
@@ -73,8 +77,8 @@ Staple 2-mana rampa — razem z Arcane Signet i Sol Ring buduje podstawę rampy.
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 0 | 0 | Nie mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |

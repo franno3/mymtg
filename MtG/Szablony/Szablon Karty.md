@@ -15,8 +15,12 @@ color_identity: "{{WUBRG}}"   # np. R, UG, WBR — symbole many z kosztu I tekst
 moze_byc_dowodca: false        # true jeśli legendarny stwór lub planeswalker z wyróżnieniem
 commander_legal: true          # false jeśli na liście zakazanych EDH
 # --- Posiadanie ---
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 0                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Nie mam"         # Mam | Nie mam | Szukam | Do wymiany
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # {{Nazwa Karty}}
@@ -117,11 +121,11 @@ elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 0 | 0 | Nie mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |
 
 ---
 

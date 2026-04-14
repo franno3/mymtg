@@ -21,8 +21,12 @@ moze_byc_dowodca: true
 commander_legal: true
 ilustrator: Darren Tan
 data_premiery: 2026-04-24
-papierowe: "Nie mam"           # Mam | Nie mam | Szukam | Do wymiany
-elektroniczne: "Nie mam"       # Mam | Nie mam | Szukam
+papierowe_mam: 0                    # liczba posiadanych egzemplarzy
+papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
+papierowe_status: "Nie mam"
+elektroniczne_mam: 0
+elektroniczne_potrzebuje: 0
+elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 ---
 
 # Quintorius, History Chaser
@@ -108,8 +112,8 @@ Silna karta wartości w każdym RW decku operującym na cmentarzu. +1 jest autar
 ## Posiadanie
 
 > [!check] Status kolekcji
-> **Papierowe:** Nie mam  
-> *(Mam | Nie mam | Szukam | Do wymiany)*
->
-> **Elektroniczne (Arena/MTGO):** Nie mam  
-> *(Mam | Nie mam | Szukam)*
+
+| | Posiadam | Potrzebuję | Status | Uwagi |
+|---|---|---|---|---|
+| **Papierowe** | 0 | 0 | Nie mam | |
+| **Elektroniczne** | 0 | 0 | Nie mam | |
