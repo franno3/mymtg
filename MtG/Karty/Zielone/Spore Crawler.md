@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Spore Crawler
 
+![Spore Crawler](https://api.scryfall.io/cards/named?exact=Spore%20Crawler&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 

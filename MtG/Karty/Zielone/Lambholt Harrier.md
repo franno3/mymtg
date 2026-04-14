@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Lambholt Harrier
 
+![Lambholt Harrier](https://api.scryfall.io/cards/named?exact=Lambholt%20Harrier&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 

@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Glorious Sunrise
 
+![Glorious Sunrise](https://api.scryfall.io/cards/named?exact=Glorious%20Sunrise&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i opcje na Scryfall.
 

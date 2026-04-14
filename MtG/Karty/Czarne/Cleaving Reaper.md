@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Cleaving Reaper
 
+![Cleaving Reaper](https://api.scryfall.io/cards/named?exact=Cleaving%20Reaper&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i edycję na Scryfall.
 

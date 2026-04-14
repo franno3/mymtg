@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Voldaren Stinger
 
+![Voldaren Stinger](https://api.scryfall.io/cards/named?exact=Voldaren%20Stinger&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 

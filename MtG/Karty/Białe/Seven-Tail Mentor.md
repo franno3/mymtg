@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Seven-Tail Mentor
 
+![Seven-Tail Mentor](https://api.scryfall.io/cards/named?exact=Seven-Tail%20Mentor&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst karty na Scryfall.
 

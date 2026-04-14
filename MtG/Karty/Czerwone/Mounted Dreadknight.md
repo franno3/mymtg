@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Mounted Dreadknight
 
+![Mounted Dreadknight](https://api.scryfall.io/cards/named?exact=Mounted%20Dreadknight&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 

@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # High-Rise Sawjack
 
+![High-Rise Sawjack](https://api.scryfall.io/cards/named?exact=High-Rise%20Sawjack&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 

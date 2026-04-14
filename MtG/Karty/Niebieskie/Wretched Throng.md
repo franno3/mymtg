@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Wretched Throng
 
+![Wretched Throng](https://api.scryfall.io/cards/named?exact=Wretched%20Throng&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst, statystyki i edycję na Scryfall.
 

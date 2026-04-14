@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Serpentine Ambush
 
+![Serpentine Ambush](https://api.scryfall.io/cards/named?exact=Serpentine%20Ambush&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst, koszt i edycję na Scryfall.
 

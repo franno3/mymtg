@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Unholy Officiant
 
+![Unholy Officiant](https://api.scryfall.io/cards/named?exact=Unholy%20Officiant&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst karty na Scryfall.
 

@@ -20,6 +20,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Brute Suit
 
+![Brute Suit](https://api.scryfall.io/cards/named?exact=Brute%20Suit&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i efekty na Scryfall.
 

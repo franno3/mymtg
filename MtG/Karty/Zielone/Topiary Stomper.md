@@ -21,6 +21,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 # Topiary Stomper
 
+![Topiary Stomper](https://api.scryfall.io/cards/named?exact=Topiary%20Stomper&format=image&version=normal)
+
 > [!warning] Weryfikacja
 > Zweryfikuj dokładny tekst i zdolności na Scryfall.
 
