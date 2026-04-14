@@ -12,7 +12,7 @@ numer_kolekcji: 261
 koszt_many: ""
 rzadkość: Common
 cmc: 0
-papierowe_mam: 4                    # liczba posiadanych egzemplarzy
+papierowe_mam: 8                    # liczba posiadanych egzemplarzy
 papierowe_potrzebuje: 0             # liczba potrzebnych egzemplarzy
 papierowe_status: "Mam"
 elektroniczne_mam: 0
@@ -84,6 +84,7 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 ### Decklists używające tej karty
 - [[Decklists/2021 Arena Starter Kit - Red Blue]]
+- [[Decklists/2021 Arena Starter Kit - Black Green]]
 
 ---
 
@@ -93,5 +94,5 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 | | Posiadam | Potrzebuję | Status | Uwagi |
 |---|---|---|---|---|
-| **Papierowe** | 4 | 0 | Mam | |
+| **Papierowe** | 8 | 0 | Mam | |
 | **Elektroniczne** | 0 | 0 | Nie mam | |

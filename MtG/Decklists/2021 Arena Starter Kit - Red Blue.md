@@ -36,27 +36,27 @@ Talia łączy agresywne czerwone stwory i mechanikę Boast z niebieską kontrol�
 ## Decklist (60 kart)
 
 ### Stwory (24)
-- 1x [[Karty/Niebieskie/Archmage Emeritus]]
-- 1x [[Karty/Czerwone/Arni Brokenbrow]]
-- 4x [[Karty/Czerwone/Axgard Cavalry]]
-- 1x [[Karty/Czerwone/Calamity Bearer]]
-- 1x [[Karty/Niebieskie/Cyclone Summoner]]
-- 4x [[Karty/Niebieskie/Frost Trickster]]
-- 1x [[Karty/Niebieskie/Mind Flayer]]
-- 3x [[Karty/Czerwone/Red Dragon]]
-- 4x [[Karty/Czerwone/Teeterpeak Ambusher]]
-- 2x [[Karty/Niebieskie/Vortex Runner]]
-- 2x [[Karty/Niebieskie/Wormhole Serpent]]
+- 1x [[Karty/Niebieskie/Archmage Emeritus|Archmage Emeritus]]
+- 1x [[Karty/Czerwone/Arni Brokenbrow|Arni Brokenbrow]]
+- 4x [[Karty/Czerwone/Axgard Cavalry|Axgard Cavalry]]
+- 1x [[Karty/Czerwone/Calamity Bearer|Calamity Bearer]]
+- 1x [[Karty/Niebieskie/Cyclone Summoner|Cyclone Summoner]]
+- 4x [[Karty/Niebieskie/Frost Trickster|Frost Trickster]]
+- 1x [[Karty/Niebieskie/Mind Flayer|Mind Flayer]]
+- 3x [[Karty/Czerwone/Red Dragon|Red Dragon]]
+- 4x [[Karty/Czerwone/Teeterpeak Ambusher|Teeterpeak Ambusher]]
+- 2x [[Karty/Niebieskie/Vortex Runner|Vortex Runner]]
+- 2x [[Karty/Niebieskie/Wormhole Serpent|Wormhole Serpent]]
 
 ### Czary / Instanty (9)
-- 2x [[Karty/Niebieskie/Field Research]]
-- 4x [[Karty/Czerwone/Run Amok]]
-- 3x [[Karty/Czerwone/Thundering Rebuke]]
+- 2x [[Karty/Niebieskie/Field Research|Field Research]]
+- 4x [[Karty/Czerwone/Run Amok|Run Amok]]
+- 3x [[Karty/Czerwone/Thundering Rebuke|Thundering Rebuke]]
 
 ### Lądy (27)
 - 11x Island
 - 12x Mountain
-- 4x  [[Karty/Bezbarwne/Evolving Wilds]]
+- 4x  [[Karty/Bezbarwne/Evolving Wilds|Evolving Wilds]]
 
 ---
 
@@ -64,12 +64,12 @@ Talia łączy agresywne czerwone stwory i mechanikę Boast z niebieską kontrol�
 
 | Karta | Rola | Uwagi |
 |---|---|---|
-| [[Karty/Czerwone/Calamity Bearer]] | Wzmocnienie obrażeń | Podwaja damage — Thundering Rebuke zadaje 8 zamiast 4 |
-| [[Karty/Niebieskie/Cyclone Summoner]] | Board wipe | Zwraca wszystko poza Wizardami i lądami |
-| [[Karty/Niebieskie/Mind Flayer]] | Kontrola | Kradnie najlepszego stwora przeciwnika |
-| [[Karty/Czerwone/Axgard Cavalry]] | Utility | Daje Haste innym stworom → odblokowuje Boast |
-| [[Karty/Niebieskie/Archmage Emeritus]] | Card draw | Każdy instant/czar = dobierasz kartę |
-| [[Karty/Czerwone/Run Amok]] | Pump + Trample | +3/+1 i Trample tylko dla atakujących |
+| [[Karty/Czerwone/Calamity Bearer\|Calamity Bearer]] | Wzmocnienie obrażeń | Podwaja damage — Thundering Rebuke zadaje 8 zamiast 4 |
+| [[Karty/Niebieskie/Cyclone Summoner\|Cyclone Summoner]] | Board wipe | Zwraca wszystko poza Wizardami i lądami |
+| [[Karty/Niebieskie/Mind Flayer\|Mind Flayer]] | Kontrola | Kradnie najlepszego stwora przeciwnika |
+| [[Karty/Czerwone/Axgard Cavalry\|Axgard Cavalry]] | Utility | Daje Haste innym stworom → odblokowuje Boast |
+| [[Karty/Niebieskie/Archmage Emeritus\|Archmage Emeritus]] | Card draw | Każdy instant/czar = dobierasz kartę |
+| [[Karty/Czerwone/Run Amok\|Run Amok]] | Pump + Trample | +3/+1 i Trample tylko dla atakujących |
 
 ---
 
