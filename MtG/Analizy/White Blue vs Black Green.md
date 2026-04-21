@@ -78,3 +78,5 @@ To matchup **tempo vs. midrange**: White/Blue musi wygrać zanim Black/Green zbu
 ### Podsumowanie
 
 White/Blue wygrywa ten matchup przez kontrolę powietrzną i tempo. Kluczem jest eliminacja [[Karty/Zielone/Oran-Rief Ooze\|Oran-Rief Ooze]] zanim zacznie mnożyć countery, utrzymanie tapdownów przez Geista i Beguillera oraz użycie Consuming Tide jako resetu gdy sytuacja wymknie się spod kontroli. Cragplate Baloth jest praktycznie nieusuwalny — ignoruj go i atakuj powietrzem.
+
+Adam

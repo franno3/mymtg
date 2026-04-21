@@ -52,7 +52,8 @@ elektroniczne_status: "Nie mam"     # Mam | Nie mam | Szukam
 
 > [!check] Status kolekcji
 
-| | Posiadam | Potrzebuję | Status | Uwagi |
-|---|---|---|---|---|
-| **Papierowe** | 1 | 0 | Mam | |
-| **Elektroniczne** | 0 | 0 | Nie mam | |
+|                   | Posiadam | Potrzebuję | Status  | Uwagi |
+| ----------------- | -------- | ---------- | ------- | ----- |
+| **Papierowe**     | 1        | 0          | Mam     |       |
+| **Elektroniczne** | 0        | 0          | Nie mam |       |
+|                   |          |            |         |       |
